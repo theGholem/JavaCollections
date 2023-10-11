@@ -1,0 +1,4 @@
+Rechercher dans une ArrayList :
+
+À partir de l'ArrayList de l'exercice précédent, demandez à l'utilisateur de saisir un nombre. 
+Recherchez ce nombre dans la liste et affichez un message indiquant si le nombre a été trouvé ou non.
