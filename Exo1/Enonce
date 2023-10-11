@@ -1,0 +1,4 @@
+Créer et parcourir une ArrayList :
+
+Créez une ArrayList d'entiers et ajoutez les nombres de 1 à 10 à la liste. 
+Ensuite, parcourez la liste et affichez chaque nombre.
