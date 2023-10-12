@@ -1,0 +1,5 @@
+ Trier une ArrayList
+
+Créez une ArrayList d'entiers non triés. Utilisez la méthode Collections.sort() pour trier 
+la liste en ordre croissant, puis affichez-la. Ensuite, utilisez la méthode Collections.reverse()
+ pour trier la liste en ordre décroissant et affichez-la à nouveau.
