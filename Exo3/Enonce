@@ -1,0 +1,6 @@
+Ajouter et supprimer des éléments :
+
+Créez une ArrayList de chaînes de caractères et ajoutez quelques noms à la liste. 
+Ensuite, demandez à l'utilisateur d'ajouter un nom à la liste. Après cela, demandez 
+à l'utilisateur de supprimer un nom de la liste. Affichez la liste mise à jour après 
+chaque opération.
