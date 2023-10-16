@@ -1,0 +1,6 @@
+Utilisation d'une LinkedList
+
+Créez une LinkedList de chaînes de caractères et ajoutez quelques villes à la liste. 
+Parcourez la liste et affichez les noms de villes. Ensuite, utilisez la méthode addFirst() 
+pour ajouter une nouvelle ville au début de la liste, et utilisez la méthode removeLast() pour supprimer 
+la dernière ville de la liste. Affichez la liste après chaque opération.
