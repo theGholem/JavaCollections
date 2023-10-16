@@ -1,0 +1,5 @@
+Créer une liste de listes
+
+Créez une ArrayList de ArrayList d'entiers. Chaque sous-liste représente une liste de nombres.
+Ajoutez quelques sous-listes contenant des nombres différents. Parcourez la liste de listes et
+ calculez la somme de chaque sous-liste, puis affichez les sommes
